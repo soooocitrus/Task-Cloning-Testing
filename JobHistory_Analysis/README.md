@@ -1,4 +1,4 @@
-# JobHostory_Analysis
+# JobHistory_Analysis
 
 To evaluate the performance of different schedulers, we need to retrieve the and analyze the information of jobs.
 
