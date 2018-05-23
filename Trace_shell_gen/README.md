@@ -24,4 +24,4 @@
 
 - Need to first download the `.jhist` jobhistory files in order to the working directory.
 
-- If detailed information of finished jobs is needed, please refer to [JobHostory_Analysis](../JobHostory_Analysis).
+- If detailed information of finished jobs is needed, please refer to [JobHistory_Analysis](../JobHistory_Analysis).
