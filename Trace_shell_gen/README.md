@@ -1,6 +1,6 @@
-#Testing on Trace
+# Testing on Trace
 
-##Trace Files
+## Trace Files
 
 `job_file.csv`: Original trace, of which most of jobs require only 1 container
 
@@ -8,7 +8,7 @@
 
 `job_file_Scaled.csv`: Trace with number of required containers uniformly distributed between 1 and 10 (applied to those originally needing 1), and interval between job arrival time scaled up accordingly
 
-##Scripts
+## Scripts
 
 `script_Gen.py`: Generate the test script from the trace file
 

@@ -19,7 +19,7 @@ hadoopc jar WordCount.jar WordCount input_dir output_dir(both in HDFS)
 
 **Trace**
 
-To test on the trace, please refer to [Trace_shell_gen](Trace_shell_gen),then put the produced shell scripts under ``~/Tests`` and run.
+To test on the trace, please refer to [Trace_shell_gen](Trace_shell_gen), then put the produced shell scripts under ``~/Tests`` and run.
 
 ##Result Retrieval and Analysis
 To retrieve the information of completed jobs and further visualize them into csv files, please refer to [JobHostory_Analysis](JobHostory_Analysis).

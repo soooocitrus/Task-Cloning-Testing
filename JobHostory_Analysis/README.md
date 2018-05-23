@@ -1,8 +1,8 @@
-#JobHostory_Analysis
+# JobHostory_Analysis
 
 To evaluate the performance of different schedulers, we need to retrieve the and analyze the information of jobs.
 
-##Usage
+## Usage
 
 1. Run a set of experiments.
 
@@ -20,7 +20,7 @@ which renames each JobHistory file with only first 22 characters and the extensi
 
 4. scp `local_dir` to your desktop, or run the script directly under `local_dir`.
 
-##Scripts
+## Scripts
 
 `JobHostory_Analysis.py`: This script extracts in-depth information from JobHistory files, including:
 
@@ -36,4 +36,4 @@ which renames each JobHistory file with only first 22 characters and the extensi
 	
 <img src="../pic/history.jpg" width="1200" />
 
-`cycle.py`: 
+`cycle.py`: This is a simplified script only analyzing elapsed time of single-type job.
