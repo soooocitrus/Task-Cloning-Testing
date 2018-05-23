@@ -23,6 +23,8 @@ To test on the trace, please refer to [Trace_shell_gen](Trace_shell_gen), then p
 
 ## Result Retrieval and Analysis
 To retrieve the information of completed jobs and further visualize them into csv files, please refer to [JobHistory_Analysis](JobHistory_Analysis).
+
+Some previous results can be found at [result](result).
 ## Miscellaneous
 **pdsh**
 
