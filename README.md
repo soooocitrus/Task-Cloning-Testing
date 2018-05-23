@@ -1,4 +1,4 @@
-# Task Cloning Project
+# Task Cloning Testing
 ## Overview
 The hadoop cluster of our own algorithm is under ``~/hadoop`` at all nodes, whose commands can be invoked by
 
