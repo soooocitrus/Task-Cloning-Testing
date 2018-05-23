@@ -22,7 +22,7 @@ which renames each JobHistory file with only first 22 characters and the extensi
 
 ## Scripts
 
-`JobHostory_Analysis.py`: This script extracts in-depth information from JobHistory files, including:
+`JobHistory_Analysis.py`: This script extracts in-depth information from JobHistory files, including:
 
 - Job type
 - Number of clones
